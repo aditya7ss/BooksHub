@@ -12,7 +12,6 @@ In the project directory, you can run:
 1. HTML
 2. CSS
 3. React
-<<<<<<< HEAD
 
 - used for Backend server which is deployed on Vercel for authentication of page.
 
@@ -45,8 +44,7 @@ In the project directory, you can run:
 
 =======
 
-- used for Backend server which is deployed on Vercel for authentication of page.
->>>>>>> 31c8b15f9412d3ce31b6d5c13208e444f87d2901
+
 
 ## Features:
 1. User Authentication (Signup, Login and Logout)
@@ -89,6 +87,4 @@ In the project directory, you can run:
 ## You can report issues on this project using Github issue 
 1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
-<<<<<<< HEAD
-=======
->>>>>>> 31c8b15f9412d3ce31b6d5c13208e444f87d2901
+
