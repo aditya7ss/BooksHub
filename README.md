@@ -1,6 +1,6 @@
 # E-Book Project using 
 
-Live Link - [Bookztron](https://bookshub-ier7.onrender.com)
+Live Link - [BookHub](https://bookshub-ier7.onrender.com)
 
 ## Available Scripts
 
@@ -11,10 +11,9 @@ In the project directory, you can run:
 ## Technologies used 
 1. HTML
 2. CSS
-3. JavaScript
-4. React
+3. React
 
-- Node JS, Express JS and MongoDb is used for Backend server which is deployed on Vercel.
+- used for Backend server which is deployed on Vercel for authentication of page.
 
 ## Features:
 1. User Authentication (Signup, Login and Logout)
